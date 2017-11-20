@@ -6,4 +6,4 @@
 source("gen.temp.R")
 
 #example
-gen.temp(9366732,21,"YK")
+gen.temp(9366732,21,"YL")
