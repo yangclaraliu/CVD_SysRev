@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511135664424.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "7850556",
+    "id" : "4EF3BF9C",
+    "lastKnownWriteTime" : 1511137519,
+    "last_content_update" : 1511137519865,
+    "path" : "~/Documents/RedCap_Template/gen.temp.R",
+    "project_path" : "gen.temp.R",
+    "properties" : {
+        "cursorPosition" : "9,107",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

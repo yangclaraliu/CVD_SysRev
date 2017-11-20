@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511136790958.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3915078798",
+    "id" : "7AFC2318",
+    "lastKnownWriteTime" : 1511137521,
+    "last_content_update" : 1511137521227,
+    "path" : "~/Documents/RedCap_Template/run.me.R",
+    "project_path" : "run.me.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
