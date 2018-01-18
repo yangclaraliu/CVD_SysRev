@@ -8,6 +8,6 @@ output: html_document
 #### To Assist you in recording effect estimates during systematic review
 1. Open "RedCap_Template.Rproj"
 2. Within the project, click on **run.me.R**, that will be all that you need. It first loaded the function **gen.temp.R**, then shows an example of how to use this function: `gen.temp(9366732,21,"YL")`. The first parameter of the function is the PubMed ID, the second is the number of estimates that you hope to report, and the third is your initial. If you have an error message, the first thing you should do is look at **gen.temp.R** and see if that solve your problems. 
-3. The code in **run.me.R** will print a message about the name of your template, and the path where this template has been saved to. Please work on the csv template and do not change the structure of the template. When finish, sent to Yang with an email titled **[CVD_SyRev_EE]-PMID-Your Initial**.
+3. The code in **run.me.R** will print a message about the name of your template, and the path where this template has been saved to. Please work on the csv template and do not change the structure of the template. When finish, sent to Yang with an email titled **[CVD_SysRev_EE]-PMID-Your Initial**.
 
 In **9366732_YL.csv**, you can find an example of what these templates look like. If you have any questions or concerns, please contact Yang. 
